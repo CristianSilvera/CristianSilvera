@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on my co-workers
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/cristian-silvera/)
+- 📫 How to reach me :point_right: [Linkedin](https://www.linkedin.com/in/cristian-silvera/)
 
 
 <!---
