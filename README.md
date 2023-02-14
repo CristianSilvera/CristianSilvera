@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on my co-workers
-- 📫 How to reach me linkedin.com/in/cristian-silvera
+- 📫 How to reach me [linkedin.com/in/cristian-silvera](https://www.linkedin.com/in/cristian-silvera/)
 
 <!---
 CristianSilvera/CristianSilvera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
